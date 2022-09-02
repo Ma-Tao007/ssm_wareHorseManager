@@ -1,10 +1,13 @@
 基于ssm的仓库管理系统，用shiro做的权限控制
 
+项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
+
+![公众号二维码](./运行截图/wechat.png)
+
+
 CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/112321163
 
 B站运行视频：https://www.bilibili.com/video/BV1NK4y1T7Vk/
-
-项目下载地址：http://www.shiyuncode.com/details?id=26
 
 
 开发环境：eclipse/idea + maven + mysql + tomcat(版本不限)
